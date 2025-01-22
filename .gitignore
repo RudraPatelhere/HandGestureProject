@@ -1,0 +1,18 @@
+# Visual Studio files
+.vs/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Build artifacts
+*.spec
+build/
+dist/
+*.egg-info/
+*.log
